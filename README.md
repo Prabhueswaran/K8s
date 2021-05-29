@@ -21,3 +21,7 @@ kubernetes -  Documentation
 **Step 4:**
 
 [Kubernetes Dashboard](https://github.com/Prabhueswaran/K8s/wiki/Kubernetes-Dashboard)
+
+**Step 5:**
+
+[Monitor](https://github.com/Prabhueswaran/K8s/wiki/Install-Prometheus-stack-with-Grafana-to-monitor-K8s-Cluster-and-resource)
