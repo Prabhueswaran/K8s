@@ -25,3 +25,12 @@ kubernetes -  Documentation
 **Step 5:**
 
 [Monitor](https://github.com/Prabhueswaran/K8s/wiki/Install-Prometheus-stack-with-Grafana-to-monitor-K8s-Cluster-and-resource)
+
+
+### Worker node hostname setup 
+
+`sudo hostnamectl set-hostname new-hostname`
+
+`sudo systemctl restart systemd-hostnamed`
+
+`sudo reboot`
